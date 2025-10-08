@@ -2,6 +2,8 @@
 
 ![Material Design 3](./preview/thumbnail.png)
 
+## Overview
+
 A lightweight, dependency-free CSS and JavaScript framework for implementing Google's Material Design 3 on the web. `md3` provides a comprehensive set of styled components and a powerful dynamic theming engine, allowing you to create beautiful, modern user interfaces with ease.
 
 The core feature is a "Monet"-style theming engine that generates a complete Material You color palette from a single seed color, which can be extracted directly from an image.
